@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sponsored should match first snapshot 1`] = `
+<div
+  className="sc-bdVaJa hQFXeR"
+>
+  <div
+    className="sc-bwzfXH iUfIMb"
+  >
+    <div
+      className="sc-htpNat imqvLg"
+    >
+      <div
+        className="sc-bxivhb fZNiEr"
+      >
+        <div
+          className="sc-ifAKCX dXLBgg"
+        >
+          <div
+            className="sc-EHOje eWyrIJ"
+            style={
+              Object {
+                "color": "blue",
+              }
+            }
+          >
+            <span
+              className="sc-bZQynM loTqBE"
+            >
+              SPONSORISÉ
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Sponsored should match second snapshot 1`] = `
+<div
+  className="sc-gzVnrw eqTQHH"
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+>
+  <div
+    className="sc-htoDjs fXsHVg"
+  >
+    <div
+      className="sc-dnqmqq ddwJFQ"
+    >
+      <div
+        className="sc-iwsKbI fGpCMd"
+      >
+        <div
+          className="sc-gZMcBi cvOLVm"
+        >
+          <div
+            className="sc-gqjmRU bujdcN"
+          >
+            <span
+              className="sc-VigVT kilTth"
+            >
+              s
+            </span>
+            <span
+              className="sc-jTzLTM eydzrE"
+            >
+              eg
+            </span>
+            <span
+              className="sc-fjdhpX hbxcCV"
+            >
+              p
+            </span>
+            <span
+              className="sc-jzJRlG iKQqMD"
+            >
+              eg
+            </span>
+            <span
+              className="sc-cSHVUG PAFoB"
+            >
+              o
+            </span>
+            <span
+              className="sc-kAzzGY fXFesy"
+            >
+              eg
+            </span>
+            <span
+              className="sc-chPdSV fjqAjw"
+            >
+              n
+            </span>
+            <span
+              className="sc-kgoBCf gflSWz"
+            >
+              eg
+            </span>
+            <span
+              className="sc-kGXeez iIqcmw"
+            >
+              s
+            </span>
+            <span
+              className="sc-kpOJdX jOPoUd"
+            >
+              eg
+            </span>
+            <span
+              className="sc-dxgOiQ fRPEJb"
+            >
+              o
+            </span>
+            <span
+              className="sc-ckVGcZ dqayhU"
+            >
+              eg
+            </span>
+            <span
+              className="sc-jKJlTe gTjrqt"
+            >
+              r
+            </span>
+            <span
+              className="sc-eNQAEJ bzFzOQ"
+            >
+              eg
+            </span>
+            <span
+              className="sc-hMqMXs gHBsEc"
+            >
+              i
+            </span>
+            <span
+              className="sc-kEYyzF cpEKXx"
+            >
+              eg
+            </span>
+            <span
+              className="sc-kkGfuU iYpWzl"
+            >
+              s
+            </span>
+            <span
+              className="sc-iAyFgw iGrYfj"
+            >
+              eg
+            </span>
+            <span
+              className="sc-hSdWYo hovNCY"
+            >
+              é
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
